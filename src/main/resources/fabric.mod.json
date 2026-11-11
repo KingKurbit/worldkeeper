@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"worldkeeper","version":"0.1.0","name":"Worldkeeper","description":"Protected-chunk preview worlds for singleplayer.","environment":"client","entrypoints":{"client":["dev.worldkeeper.Worldkeeper"]},"license":"MIT","depends":{"fabricloader":">=0.16.14","minecraft":"1.21.1","java":">=21","fabric-api":"*"}}

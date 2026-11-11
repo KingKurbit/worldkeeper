@@ -1,0 +1,1 @@
+PASS: real integrated-server preview opened; protected house, 17 diamonds, underground marker and entry platform intact; eligible chunk regenerated; old entity UUID and POI absent. Source retained. Preview=Worldkeeper Preview 2026-11-10 22-16-32 66a8cbcd
